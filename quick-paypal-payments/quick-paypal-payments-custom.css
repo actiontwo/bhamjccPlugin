@@ -1,0 +1,27 @@
+
+        .qpp-style.default .floatleft{float:left;}
+        .qpp-style.default .floatright {float:right;text-align:right;}
+        .qpp-style.default .floatright input {width:3em;text-align:right;}
+        .qpp-style.default input#total_price, .qpp-style.default input#total_postage, .qpp-style.default input#total_process, .qpp-style.default input#total_products {text-align:right;border:none;}.qpp-style.default {}
+
+.qpp-style.default input[type=text], .qpp-style.default textarea, .qpp-style.default select, .qpp-style.default #submit {border-radius:0;}
+
+.qpp-style.default p{;}
+
+.qpp-style.default input[type=text]{}
+
+.qpp-style.default #submit, .qpp-style.default #submit:hover {}
+
+.qpp-style.default #couponsubmit, .qpp-style.default #couponsubmit:hover{}
+
+#none h2 {
+    color: #149fce !important;
+    font-size: 13px !important;
+    font-weight: 800 !important;
+    line-height: 2px !important;
+    margin-bottom: -2px !important;
+    text-transform: uppercase;
+}
+
+
+
